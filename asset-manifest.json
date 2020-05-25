@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trolommonm/React-Cats/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/trolommonm/React-Cats/static/js/main.9e389335.chunk.js",
+    "main.js.map": "/trolommonm/React-Cats/static/js/main.9e389335.chunk.js.map",
+    "runtime-main.js": "/trolommonm/React-Cats/static/js/runtime-main.c0a25a83.js",
+    "runtime-main.js.map": "/trolommonm/React-Cats/static/js/runtime-main.c0a25a83.js.map",
+    "static/js/2.36c8578b.chunk.js": "/trolommonm/React-Cats/static/js/2.36c8578b.chunk.js",
+    "static/js/2.36c8578b.chunk.js.map": "/trolommonm/React-Cats/static/js/2.36c8578b.chunk.js.map",
+    "index.html": "/trolommonm/React-Cats/index.html",
+    "precache-manifest.8a8196cb9964d5bbc4f2ef0e26d78a1b.js": "/trolommonm/React-Cats/precache-manifest.8a8196cb9964d5bbc4f2ef0e26d78a1b.js",
+    "service-worker.js": "/trolommonm/React-Cats/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/trolommonm/React-Cats/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.36c8578b.chunk.js.LICENSE.txt": "/trolommonm/React-Cats/static/js/2.36c8578b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/trolommonm/React-Cats/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0a25a83.js",
+    "static/js/2.36c8578b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9e389335.chunk.js"
+  ]
+}
