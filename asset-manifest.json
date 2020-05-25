@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/trolommonm/React-Cats/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/trolommonm/React-Cats/static/js/main.9e389335.chunk.js",
-    "main.js.map": "/trolommonm/React-Cats/static/js/main.9e389335.chunk.js.map",
-    "runtime-main.js": "/trolommonm/React-Cats/static/js/runtime-main.c0a25a83.js",
-    "runtime-main.js.map": "/trolommonm/React-Cats/static/js/runtime-main.c0a25a83.js.map",
-    "static/js/2.36c8578b.chunk.js": "/trolommonm/React-Cats/static/js/2.36c8578b.chunk.js",
-    "static/js/2.36c8578b.chunk.js.map": "/trolommonm/React-Cats/static/js/2.36c8578b.chunk.js.map",
-    "index.html": "/trolommonm/React-Cats/index.html",
-    "precache-manifest.8a8196cb9964d5bbc4f2ef0e26d78a1b.js": "/trolommonm/React-Cats/precache-manifest.8a8196cb9964d5bbc4f2ef0e26d78a1b.js",
-    "service-worker.js": "/trolommonm/React-Cats/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/trolommonm/React-Cats/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.36c8578b.chunk.js.LICENSE.txt": "/trolommonm/React-Cats/static/js/2.36c8578b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/trolommonm/React-Cats/static/media/logo.5d5d9eef.svg"
+    "main.css": "/React-Cats/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Cats/static/js/main.9e389335.chunk.js",
+    "main.js.map": "/React-Cats/static/js/main.9e389335.chunk.js.map",
+    "runtime-main.js": "/React-Cats/static/js/runtime-main.05ec36e0.js",
+    "runtime-main.js.map": "/React-Cats/static/js/runtime-main.05ec36e0.js.map",
+    "static/js/2.36c8578b.chunk.js": "/React-Cats/static/js/2.36c8578b.chunk.js",
+    "static/js/2.36c8578b.chunk.js.map": "/React-Cats/static/js/2.36c8578b.chunk.js.map",
+    "index.html": "/React-Cats/index.html",
+    "precache-manifest.8429e113f33929357d2ac006f7e92700.js": "/React-Cats/precache-manifest.8429e113f33929357d2ac006f7e92700.js",
+    "service-worker.js": "/React-Cats/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Cats/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.36c8578b.chunk.js.LICENSE.txt": "/React-Cats/static/js/2.36c8578b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-Cats/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0a25a83.js",
+    "static/js/runtime-main.05ec36e0.js",
     "static/js/2.36c8578b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.9e389335.chunk.js"
